@@ -1,6 +1,6 @@
 # Sending Emails with Node.js Using Nodemailer and OAuth2
 
-Welcome to the repository for the code featured in our [YouTube Tutorial](https://youtu.be/T0Jl8dm71rQ) on sending emails with Node.js using [Nodemailer](https://nodemailer.com/about/) and OAuth2. This project aims to demonstrate a practical implementation of email communication in Node.js applications, utilizing the powerful Nodemailer library and OAuth2 for enhanced security.
+Welcome to the repository for the code featured in our [YouTube Tutorial](https://youtu.be/rYbDFy_BMeg?si=ghI2pyRsP2f8p0Ji) on sending emails with Node.js using [Nodemailer](https://nodemailer.com/about/) and OAuth2. This project aims to demonstrate a practical implementation of email communication in Node.js applications, utilizing the powerful Nodemailer library and OAuth2 for enhanced security.
 
 ## Tutorial Overview
 
